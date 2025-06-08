@@ -7,10 +7,10 @@ A la fecha el proyecto se encuentra en desarrollo y se han logrado implementar p
 
 ## Participación en eventos cientificos
 
-3 ponencias en el CIMM
+3 ponencias en el CIMM XII
 - DISEÑO Y PROTOTIPADO DE UN TÚNEL DE VIENTO PARA PRUEBAS A ESCALA DE TURBINAS TIPO SAVONIUS. 
 - CALIBRACIÓN Y USO DE GALGAS EXTENSIOMÉTRICAS.
 - BANCO DE PRUEBAS PARA LA CARACTERIZACIÓN DE MOTORES COMO GENERADORES.
 
-1 poster en expotech-UNAD     
+1 poster en expotech-UNAD 2025    
 - Análisis del comportamiento de una turbina Savonius en condiciones de superficie libre.
