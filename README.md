@@ -25,16 +25,20 @@ Estudiantes
 
 - Mateo Velandia Suarez 
   Estudiante Ing Mecánica UNAL
-
+  mavelandias@unal.edu.co
+  
 - Jairo David Diaz Luna
   Estudiante Ing Mecatrónica UNAL
-
+  jdiazlu@unal.edu.co
+  
 - Maria Lucia Arias Ortiz
   Estudiante Ing Mecatrónica UNAL
-
+  mariasor@unal.edu.co
+  
 - Laura Catalina Ramirez Villareal
   Estudiante Ing Mecánica UNAL
-
+  laramirzvi@unal.edu.co
+  
 - Juan Jose Benavides Garreta
   Estudiante Ing Mecánica UNAL
 
