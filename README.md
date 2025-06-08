@@ -18,7 +18,7 @@ A la fecha el proyecto se encuentra en desarrollo y se han logrado implementar p
 # Integrantes del proyecto
 Estudiantes
 
-- Nicolás Ardila Vergara 
+- Nicolás Ardila Vergara \\
 Estudiante Ing Mecánica UNAL
 Lider del proyecto
 niardilav@unal.edu.co
