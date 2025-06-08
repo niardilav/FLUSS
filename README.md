@@ -1,4 +1,9 @@
+#Proyecto FLUSS
+EL proyecto FLUSS busca investigar la viabilidad de turbinas tipo savonious de eje horizonal en los rios de montaña de colombia, y se busca desarrollar un prototipo de turbina para uso en laboratorio.
+
 En este repositorio se encuentran los avances del proyecto FLUSS ganador de la convocatoria "Ingenio que transforma" 2024, cada carpeta corresponde a un desarrollo llevadoa a cabo durante la convocatoria, en las carpetas se pueden encontrar los archivos de códigos, modelos CAD y datos crudos de laboratorio.
+
+A la fecha el proyecto se encuentra en desarrollo y se han logrado implementar pruebas de laboratorio para turbinas savonious en aire y se ha diseñado un banco de pruebas de generadores para caracterizar un motor stepper como generador.
 
 # Participación en eventos 
 
