@@ -37,7 +37,7 @@ Estudiantes
   
 - Laura Catalina Ramirez Villareal
   Estudiante Ing Mecánica UNAL
-  laramirzvi@unal.edu.co
+  laramirezvi@unal.edu.co
   
 - Juan Jose Benavides Garreta
   Estudiante Ing Mecánica UNAL
