@@ -13,4 +13,4 @@ A la fecha el proyecto se encuentra en desarrollo y se han logrado implementar p
 - BANCO DE PRUEBAS PARA LA CARACTERIZACIÓN DE MOTORES COMO GENERADORES.
 
 1 poster en expotech-UNAD     
--Análisis del comportamiento de una turbina Savonius en condiciones de superficie libre.
+- Análisis del comportamiento de una turbina Savonius en condiciones de superficie libre.
