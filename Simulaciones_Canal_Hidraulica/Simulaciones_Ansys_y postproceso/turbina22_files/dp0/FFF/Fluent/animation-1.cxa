@@ -1,0 +1,24 @@
+AnimationSequence1.0
+NAME: animation-1
+WINID: 6
+STORAGE: 5
+PLOTANIMATION: 0
+FRAMES: 18
+Frame 0 5 animation-1_0000.hsf 6
+Frame 1 5 animation-1_0001.hsf 6
+Frame 2 5 animation-1_0002.hsf 6
+Frame 3 5 animation-1_0003.hsf 6
+Frame 4 5 animation-1_0004.hsf 6
+Frame 5 5 animation-1_0005.hsf 6
+Frame 6 5 animation-1_0006.hsf 6
+Frame 7 5 animation-1_0007.hsf 6
+Frame 8 5 animation-1_0008.hsf 6
+Frame 9 5 animation-1_0009.hsf 6
+Frame 10 5 animation-1_0010.hsf 6
+Frame 11 5 animation-1_0011.hsf 6
+Frame 12 5 animation-1_0012.hsf 6
+Frame 13 5 animation-1_0013.hsf 6
+Frame 14 5 animation-1_0014.hsf 6
+Frame 15 5 animation-1_0015.hsf 6
+Frame 16 5 animation-1_0016.hsf 6
+Frame 17 5 animation-1_0017.hsf 6
