@@ -14,3 +14,41 @@ A la fecha el proyecto se encuentra en desarrollo y se han logrado implementar p
 
 1 poster en expotech-UNAD 2025    
 - Análisis del comportamiento de una turbina Savonius en condiciones de superficie libre.
+
+# Integrantes del proyecto
+Estudiantes
+
+- Nicolás Ardila Vergara 
+Estudiante Ing Mecánica UNAL
+Lider del proyecto
+niardilav@unal.edu.co
+
+- Mateo Velandia Suarez 
+Estudiante Ing Mecánica UNAL
+
+- Jairo David Diaz Luna
+Estudiante Ing Mecatrónica UNAL
+
+- Maria Lucia Arias Ortiz
+Estudiante Ing Mecatrónica UNAL
+
+- Laura Catalina Ramirez Villareal
+Estudiante Ing Mecánica UNAL
+
+- Juan Jose Benavides Garreta
+Estudiante Ing Mecánica UNAL
+
+- Juan Sebastian Moreno Gonzalez
+Estudiante Ing Electronica UNAL
+
+- Jaime Andres Martín Moreno
+Estudiante Ing Mecatrónica UNAL
+
+- Jonathan David Rodriguez Larrota
+Estudiante Ing Electrica UNAL
+
+### Director del proyecto
+Juan Miguel Mantilla Gonzalez
+jmmantillag@unal.edu.co
+### Codirector del proyecto
+Nestor Alonso Mancipe Muños
